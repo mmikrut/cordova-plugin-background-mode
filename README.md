@@ -1,4 +1,10 @@
 
+<p>
+  4 Jul 2020
+  fix: add compatibility for iOS >= 12.2 …
+  oritinally frmm https://github.com/Triotech-fr/cordova-plugin-background-mode
+</p>
+
 <p align="left">
     <b><a href="https://github.com/katzer/cordova-plugin-background-mode/tree/example">SAMPLE APP</a> :point_right:</b>
 </p>
