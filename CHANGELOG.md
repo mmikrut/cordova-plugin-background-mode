@@ -1,4 +1,8 @@
 ## ChangeLog
+###
+- 4 Jul 2020 fix: 
+-- add compatibility for iOS >= 12.2 
+-- oritinally frmm https://github.com/Triotech-fr/cordova-plugin-background-mode
 #### Version 0.7.3 (not yet released)
 - Check if screen is off on Android
 - Wake-up device on Android
